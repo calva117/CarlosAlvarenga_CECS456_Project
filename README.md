@@ -1,1 +1,4 @@
-# CarlosAlvarenga_CECS456_Project
+Make sure to:
+pip install PyGLM
+
+DO NOT 'pip install glm'
